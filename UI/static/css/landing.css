@@ -1,0 +1,40 @@
+
+body{
+
+	background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/van.jpg);
+	height:100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+body p{
+
+	color:#fff;
+	font-family:"roboto", "Sans serif";
+}
+
+.head a{
+
+	float:right;
+	text-decoration: none;
+	margin:15px;
+	color:#fff;
+	font-family:"roboto", "Sans serif";
+
+}
+
+.head a:hover{
+
+	color: blue;
+}
+
+.head img{
+
+	float:left;
+	margin:10px;
+}
+
+.clear{
+
+	clear:both;
+}
